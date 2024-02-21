@@ -15,7 +15,7 @@
 
 
 # Se Aplica Testing? 🧪
-- [ ] Si
+- [x] Si
 - [ ] No
 
 

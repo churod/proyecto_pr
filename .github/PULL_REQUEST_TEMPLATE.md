@@ -1,13 +1,13 @@
 # NRO de Actividad 🔥
--
+-1
 
 
 # Detalle de la actividad, menor a 50 caracteres 🧩
--
+- jesus.HTML
 
 
 ## Tipo de Actividad 📜
-- [ ] New feature (agregar una nueva funcionalidad) 
+- [x] New feature (agregar una nueva funcionalidad) 
 - [ ] Change (cambio de una funcionalidad existente)
 - [ ] Fix (arreglar una funcionalidad)
 - [ ] Process (la funcionalidad esta en proceso)
@@ -22,4 +22,4 @@
 # La Actividad esta Estable? 💥
 - [ ] Si
 - [ ] No
-- [ ] No lo se
+- [x] No lo se
